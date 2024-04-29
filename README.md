@@ -5,6 +5,7 @@
 MBTI(P와 J)를 고려한 플랫폼: MBTI(Personality Type Indicator)에 기반하여 P(Perceiving)와 J(Judging) 성격 유형을 모두 고려하며 사용자들을 모이게 하는 여행 웹 사이트입니다. 여행 계획을 짜는 것을 즐기는 J와 다른 사람이 나의 여행 계획을 대신 짜주길 바라는 P 유저들이 모여 서로 공유하며 이용하는 플랫폼을 제공합니다.</p>
 <h3>프로젝트 기간</h3>
 <p>2023.09.20.~2023.10.20</p>
+<img src="https://github.com/dusdn3391/sharetour/assets/141704712/ed429c98-2ec3-41a3-8c70-562394b59e69">
 <h3>사용 툴</h3>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="40" height="40"/></a>
